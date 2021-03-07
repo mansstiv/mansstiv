@@ -19,7 +19,6 @@ Throughout these years, multiple fields of Computer Science captured my interest
   <a src="#"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-  <a src="#"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
