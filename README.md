@@ -32,8 +32,12 @@ Throughout these years, multiple fields of Computer Science captured my interest
 </p>
 
 <h2>Statistics</h2>
-
-[![mansstiv's github stats](https://github-readme-stats.vercel.app/api?username=mansstiv&show_icons=true)](https://github.com/mansstiv)
+<a href="https://github.com/mansstiv/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansstiv&hide=stars,issues&count_private=true&show_icons=true"/>
+</a>
+<a href="https://github.com/mansstiv/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&layout=compact" />
+</a>
 <p align="right">
 <img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=black&logo=github" />
 </p>
