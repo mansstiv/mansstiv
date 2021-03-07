@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi there 👋
 
 I'm Manolis Stivaktas, a B.Sc. Student in Computer Science at the <a href="https://www.di.uoa.gr/en" target="_blank">Department of Informatics and Telecommunications</a>, <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>.
 <br/>
