@@ -46,7 +46,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
 </p>
 <br>
 <p align="center">
-  <i>We all die. The goal isn't to live forever, the goal is to create something that will.</i>
+  <i>There’s some good in this world, Mr. Frodo… and it’s worth fighting for.</i>
 </p>
 <!--
 source code from:
