@@ -39,7 +39,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
 
 <h3> 📊 &nbsp;GitHub Statistics</h3> 
 
-<img alt="mansstiv's Github Stats" src="https://github-readme-stats.mansstiv.vercel.app/api?username=mansstiv&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img alt="mansstiv's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
 <img alt="mansstiv's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
