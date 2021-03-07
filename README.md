@@ -44,7 +44,11 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <p align="right">
 <img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=blue&logo=github" />
 </p>
-
+<br>
+<br>
+<p align="center">
+  <i>Think about things ʎlʇuǝɹǝɟɟᴉp.</i>
+</p>
 <!--
 source code from:
 https://github.com/kautukkundan/Awesome-Profile-README-templates
