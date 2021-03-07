@@ -13,10 +13,11 @@ Throughout these years, multiple fields of Computer Science captured my interest
 </a>
 <br/>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="http://users.uoa.gr/~sdi1700152/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mansstiv/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Manolis%20Stivaktas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mansstiv/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mansstiv-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:manolis.stivaktas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manolis.stivaktas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
