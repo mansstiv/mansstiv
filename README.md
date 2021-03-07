@@ -24,7 +24,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
   ![CSS](https://img.shields.io/badge/-CSS-0078D4?style=flat&logo=CSS3&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
