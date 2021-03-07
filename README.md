@@ -41,7 +41,11 @@ Throughout these years, multiple fields of Computer Science captured my interest
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mansstiv&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=dark" alt="GitHub Stats" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=mansstiv&label=PROFILE+VIEWS)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=mansstivu&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/mansstiv/mansstiv?color=black&logo=github" />
+</p>
+
 <!--
 **mansstiv/mansstiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
