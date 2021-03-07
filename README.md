@@ -38,6 +38,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <a href="https://github.com/mansstiv/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&layout=compact" />
 </a>
+<br>
 <p align="right">
 <img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=black&logo=github" />
 </p>
