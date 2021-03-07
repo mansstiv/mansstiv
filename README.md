@@ -8,6 +8,8 @@
 </p>
 <hr>
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Currently, I'm in the fourth-year of my bachelor studies at the <a href="https://www.di.uoa.gr/en" target="_blank">Department of Informatics and Telecommunications</a>, <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>.
