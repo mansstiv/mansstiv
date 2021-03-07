@@ -41,12 +41,12 @@ Throughout these years, multiple fields of Computer Science captured my interest
 </a>
  </p>
 <br>
-<p align="right">
+<p>
 <img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=blue&logo=github" />
 </p>
 <br>
 <br>
-<p>
+<p align="center">
   <i>There's some good in this world, Mr. Frodo, and it's worth fighting for.</i>
 </p>
 <!--
