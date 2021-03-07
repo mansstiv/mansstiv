@@ -30,13 +30,14 @@ Throughout these years, multiple fields of Computer Science captured my interest
   <a src="#"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mansstivu&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/mansstiv/mansstiv?color=black&logo=github" />
-</p>
 
 <h2>Statistics</h2>
-[![mansstivs's github stats](https://github-readme-stats.vercel.app/api?username=manstiv&show_icons=true&theme=dark)](https://github.com/manstiv)
+
+[![mansstiv's github stats](https://github-readme-stats.vercel.app/api?username=mansstiv&show_icons=true)](https://github.com/mansstiv)
+<p align="right">
+<img src="https://badges.pufler.dev/Profile-Visits/mansstiv/mansstiv?color=black&logo=github" />
+</p>
+
 <!--
 source code from:
 https://github.com/kautukkundan/Awesome-Profile-README-templates
