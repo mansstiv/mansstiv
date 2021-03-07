@@ -8,8 +8,6 @@
 </p>
 <hr>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Currently, I'm in the fourth-year of my bachelor studies at the <a href="https://www.di.uoa.gr/en" target="_blank">Department of Informatics and Telecommunications</a>, <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>.
@@ -46,6 +44,9 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <a href="https://github.com/mansstiv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansstiv&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=dracula" alt="GitHub Stats" />
 </a>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <!--
 **mansstiv/mansstiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
