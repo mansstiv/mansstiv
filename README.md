@@ -41,11 +41,12 @@ Throughout these years, multiple fields of Computer Science captured my interest
 
 
 <h3> 📊 &nbsp;GitHub Statistics</h3> 
-<p align=center>
-<img alt="mansstiv's stats" src="https://github-readme-stats.vercel.app/api?username=mansstiv&hide=stars&show_icons=true&theme=dracula" width="500"/>
-<img align=right alt="mansstiv's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&hide=smalltalk&theme=dracula&layout=compact&" width="500"/>
-  </p>
-
+<a href="https://github.com/mansstiv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&theme=dark" />
+</a>
+<a href="https://github.com/mansstiv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansstiv&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=dark" alt="GitHub Stats" />
+</a>
 <!--
 **mansstiv/mansstiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
