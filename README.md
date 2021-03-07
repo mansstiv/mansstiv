@@ -47,7 +47,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <br>
 <br>
 <p align="center">
-  <i>Think about things ʎlʇuǝɹǝɟɟᴉp.</i>
+  <i>There's some good in this world, Mr. Frodo, and it's worth fighting for.</i>
 </p>
 <!--
 source code from:
