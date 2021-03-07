@@ -1,4 +1,4 @@
-<h1> Hi there, I'm [Manolis Stivaktas!](http://users.uoa.gr/~sdi1700152/) 👋</h1>
+<h2> Hi there, I'm [Manolis Stivaktas!](http://users.uoa.gr/~sdi1700152/) 👋</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/" target="_blank">
