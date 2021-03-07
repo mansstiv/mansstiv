@@ -35,6 +35,8 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <img src="https://badges.pufler.dev/visits/mansstiv/mansstiv?color=black&logo=github" />
 </p>
 
+<h2>Statistics</h2>
+[![mansstivs's github stats](https://github-readme-stats.vercel.app/api?username=manstiv&show_icons=true&theme=dark)](https://github.com/manstiv)
 <!--
 source code from:
 https://github.com/kautukkundan/Awesome-Profile-README-templates
