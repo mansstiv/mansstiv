@@ -1,5 +1,4 @@
 ### Hi there, I'm [Manolis Stivaktas!](http://users.uoa.gr/~sdi1700152/) 👋
-<hr>
 
 <p>
 <a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/" target="_blank">
@@ -7,6 +6,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:manolis.stivaktas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<hr>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
