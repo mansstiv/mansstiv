@@ -9,7 +9,7 @@
 <hr>
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-###👨🏻‍💻 &nbsp;About Me 
+<h2>👨🏻‍💻 &nbsp;About Me </h2>
 
 
 Currently, I'm in the fourth-year of my bachelor studies at the <a href="https://www.di.uoa.gr/en" target="_blank">Department of Informatics and Telecommunications</a>, <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>.
