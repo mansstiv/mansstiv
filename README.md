@@ -42,9 +42,8 @@ Throughout these years, multiple fields of Computer Science captured my interest
  </p>
 <br>
 <p align="right">
-<img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=purple&logo=github" />
+<img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=black&logo=github" />
 </p>
-<br>
 <br>
 <p align="center">
   <i>We all die. The goal isn't to live forever, the goal is to create something that will.</i>
