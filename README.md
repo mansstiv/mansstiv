@@ -1,5 +1,5 @@
 ### Hi there, I'm [Manolis Stivaktas!](http://users.uoa.gr/~sdi1700152/) 👋
-</br>
+<br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
