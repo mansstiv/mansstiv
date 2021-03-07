@@ -42,7 +42,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
  </p>
 <br>
 <p align="right">
-<img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=black&logo=github" />
+<img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=purple&logo=github" />
 </p>
 <br>
 <p align="center">
