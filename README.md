@@ -18,16 +18,16 @@ Throughout these years, multiple fields of Computer Science captured my interest
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
-  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
-  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
-  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
-  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
-  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 
 
