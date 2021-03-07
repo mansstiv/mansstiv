@@ -47,7 +47,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <br>
 <br>
 <p align="center">
-  <i>Think about things ʎlʇuǝɹǝɟɟᴉp.</i>
+  <i>We all die. The goal isn't to live forever, the goal is to create something that will.</i>
 </p>
 <!--
 source code from:
