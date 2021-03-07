@@ -8,6 +8,8 @@
 </p>
 <hr>
 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Currently, I'm in the fourth-year of my bachelor studies at the <a href="https://www.di.uoa.gr/en" target="_blank">Department of Informatics and Telecommunications</a>, <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>.
