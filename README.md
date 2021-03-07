@@ -36,7 +36,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <a href="https://github.com/mansstiv/mansstiv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansstiv&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
 </a>
-<a href="https://github.com/mansstiv/github-readme-stats">
+<a href="https://github.com/mansstiv/mansstiv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&layout=compact&theme=gotham" />
 </a>
  </p>
