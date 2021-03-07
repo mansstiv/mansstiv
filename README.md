@@ -24,7 +24,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
   <a src="#"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-  <a src="#"><img src="https://img.icons8.com/dusk/452/php-logo.png"/></a>
+   <a src="#"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
