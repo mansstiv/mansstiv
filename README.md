@@ -16,8 +16,8 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
   ![Java](https://img.shields.io/badge/-Java-FF1B2D?style=flat&logo=Java&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
