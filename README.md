@@ -1,4 +1,4 @@
-### Hi there, I'm [Manolis Stivaktas!](http://users.uoa.gr/~sdi1700152/) 👋
+<h1> Hi there, I'm [Manolis Stivaktas!](http://users.uoa.gr/~sdi1700152/) 👋</h1>
 
 <p>
 <a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/" target="_blank">
@@ -16,7 +16,7 @@ Currently, I'm in the fourth-year of my bachelor studies at the <a href="https:/
 Throughout these years, multiple fields of Computer Science captured my interest, such as Artificial Intelligence, Databases and Web Development. Up to now, Human-Computer Interaction is the field that I have enhanced my creativity, by focusing on providing friendly-user experiences. In the meantime, having undertaken multiple projects for various academic courses, I've built strong foundations in Data Structures and Algorithms, which contributed in further developing my soft skills e.g. working under pressure, time management, teamwork, communication and problem solving. Last but not least, I am an amateur guitar player, with a little out of tune voice, who enjoys traditional dancing, photography, hiking and traveling! 
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
   <a src="#"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
@@ -31,7 +31,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 
 
-<h3> 📊 &nbsp;GitHub Statistics</h3> 
+<h2> 📊 &nbsp;GitHub Statistics</h2> 
 <a href="https://github.com/mansstiv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstiv&theme=dark" />
 </a>
