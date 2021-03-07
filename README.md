@@ -28,7 +28,7 @@ Throughout these years, multiple fields of Computer Science captured my interest
   <a src="#"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=mansstivu&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/mansstiv/mansstiv?color=black&logo=github" />
 </p>
