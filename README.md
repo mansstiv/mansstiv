@@ -18,26 +18,17 @@ Throughout these years, multiple fields of Computer Science captured my interest
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
+  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
-- 🌐 &nbsp;
   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
-- 🛢 &nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-- ⚙️ &nbsp;
   <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
   <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
   <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
-- 🔧 &nbsp;
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/jupyter.png"/></a>
-  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/anaconda.png"/></a>
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/windows.png"/></a>
 
 
 <h3> 📊 &nbsp;GitHub Statistics</h3> 
