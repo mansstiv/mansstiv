@@ -16,23 +16,34 @@ Throughout these years, multiple fields of Computer Science captured my interest
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-FF1B2D?style=flat&logo=Java&logoColor=white)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-0078D4?style=flat&logo=CSS3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=333333)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
 
+<h3> 📊 &nbsp;GitHub Statistics</h3> 
+
+<a href="https://github.com/mansstiv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansstivu&theme=dracula" />
+</a>
+<a href="https://github.com/mansstiv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansstiv&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=dracula" alt="GitHub Stats" />
+</a>
 <!--
 **mansstiv/mansstiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
