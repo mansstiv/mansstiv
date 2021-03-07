@@ -21,23 +21,23 @@ Throughout these years, multiple fields of Computer Science captured my interest
 - 💻 &nbsp;
   <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-  ![Java](https://img.shields.io/badge/-Java-FF1B2D?style=flat&logo=Java&logoColor=white)
+  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-0078D4?style=flat&logo=CSS3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
 - 🛢 &nbsp;
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
+  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=333333)
-  ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
+  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/jupyter.png"/></a>
+  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/anaconda.png"/></a>
+  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+  <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/windows.png"/></a>
 
 
 <h3> 📊 &nbsp;GitHub Statistics</h3> 
