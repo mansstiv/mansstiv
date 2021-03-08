@@ -1,4 +1,4 @@
-<h2> Hi there, I'm <a href="http://users.uoa.gr/~sdi1700152/">Manolis Stivaktas!</a> 👋</h2>
+<h2> Hi there, I'm <a href="https://mansstiv.github.io/">Manolis Stivaktas!</a> 👋</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/" target="_blank">
