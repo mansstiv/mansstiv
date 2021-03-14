@@ -46,7 +46,7 @@ Throughout these years, multiple fields of <b>Computer Science</b> captured my i
 <br>
 <p align="center">
   <i>"There’s some good in this world, Mr. Frodo… and it’s worth fighting for."</i>
-  <p><i>~Sam</i></p>
+  <p align="center"><i>~Sam</i></p>
 </p>
 <!--
 source code from:
