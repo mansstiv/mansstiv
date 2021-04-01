@@ -15,7 +15,6 @@ Currently, I'm in the fourth-year of my bachelor studies at the <a href="https:/
 Throughout these years, multiple fields of <b>Computer Science</b> captured my interest, such as <b>Artificial Intelligence</b>, <b>Databases</b> and <b>Web Development</b>. Up to now, <b>Human-Computer Interaction</b> is the field that I have enhanced my <b>creativity</b>, by focusing on providing friendly-user experiences.
 <br><br>
 In the meantime, having undertaken multiple projects for various academic courses, I've built strong foundations in <b>Data Structures</b> and <b>Algorithms</b>, which contributed in further developing my <b>soft skills</b> e.g. working under pressure, time management, teamwork, communication and problem solving. 
-<br><br>
 Last but not least, I am an amateur guitar player, with a little out of tune voice, who enjoys traditional dancing, photography, hiking and traveling! 
 
 <h2>Languages & Tools </h2>
