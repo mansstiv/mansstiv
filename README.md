@@ -9,6 +9,22 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+
+<h2>Languages & Tools </h2>
+<p>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
+  <a src="#"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+</p>
+
 <h2>Statistics</h2>
 <p>
 <a href="https://github.com/mansstiv/mansstiv">
