@@ -9,7 +9,7 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<p align="center">
+<p align="left">
   <i>"There’s some good in this world, Mr. Frodo… and it’s worth fighting for."</i>
   <br><i>~Sam</i>
 </p>
