@@ -9,6 +9,7 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+
 <h2>Languages & Tools </h2>
 <p>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
