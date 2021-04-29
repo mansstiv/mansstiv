@@ -21,7 +21,6 @@
   <a src="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/git--v1.png"/></a>
-  <a src="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
   <a src="#"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 </p>
