@@ -7,7 +7,7 @@
 <a href="mailto:manolis.stivaktas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" width="100%" height="30%"/>
+<img alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" width="100%" height="40px"/>
 
 <!--
 source code from:
