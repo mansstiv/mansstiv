@@ -1,4 +1,4 @@
-<h2> Hi there, I'm <a href="https://mansstiv.github.io/">Manolis Stivaktas!</a> 👋</h2>
+<h2> Hi there, I'm <a href="https://mansstiv.github.io/">Manolis Stivaktas!</a> :earth_africa:</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/manolis-stivaktas-2481291bb/" target="_blank">
