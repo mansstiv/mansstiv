@@ -7,7 +7,19 @@
 <a href="mailto:manolis.stivaktas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" width="70%" />
+<div>
+  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" />
+  <p> I'm an undergraduate student in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
+  <br><br>
+  I'm mainly interested in the fields of Artificial Intelligence, Web Development and Human-Computer Interaction.
+  <br><br>
+  <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
+  <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
+  <br><br> 
+  <p align="right">
+    <img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=purple&logo=github" />
+  </p>
+<div>
 
 <!--
 source code from:
