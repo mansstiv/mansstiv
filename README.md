@@ -20,8 +20,3 @@
     <img src="https://badges.pufler.dev/Visits/mansstiv/mansstiv?color=purple&logo=github" />
   </p>
 <div>
-
-<!--
-source code from:
-https://github.com/kautukkundan/Awesome-Profile-README-templates
--->
