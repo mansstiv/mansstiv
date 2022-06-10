@@ -12,7 +12,7 @@
   <br><br>
 🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
     <br><br>
-🌱 Broadly speaking, I'm most interested in the fields of Artificial Intelligence, Full-Stack Web Development and Human-Computer Interaction.
+🌱 Broadly speaking, I'm most interested in the fields of Full-Stack Web Development and Human-Computer Interaction.
   <br><br>
   <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
   <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
