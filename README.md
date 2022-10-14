@@ -1,7 +1,7 @@
 <h2> Hi there, I'm <a href="https://mansstiv.github.io/">Manolis Stivaktas!</a> :earth_africa:</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/manolisstivaktas/" target="_blank">
+<a href="https://www.linkedin.com/in/mansstiv/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:manolis.stivaktas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
