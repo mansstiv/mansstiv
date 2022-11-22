@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5/>
 <img src=https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6/>
 <img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC/>
-<img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)/>
+<img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python/>
 <img src=https://img.shields.io/badge/-Git-05122A?style=flat&logo=git/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br><br>
