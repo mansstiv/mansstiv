@@ -12,15 +12,16 @@
   <br><br>
 🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
     <br><br>
-<img src=https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp/>
-<img src=https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp/>
-<img src=https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp/>
-<img src=https://img.shields.io/badge/-KnockoutJS-05122A?style=flat&logo=knockoutjs)&nbsp/>
-<img src=https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp/>
-<img src=https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp/>
-<img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp/>
-<img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp/>
-<img src=https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp/>
+<img src=https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript/>
+<img src=https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript/>
+<img src=https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular/>
+<img src=https://img.shields.io/badge/-KnockoutJS-05122A?style=flat&logo=knockoutjs/>
+<img src=https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5/>
+<img src=https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6/>
+<img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC/>
+<img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)/>
+<img src=https://img.shields.io/badge/-Git-05122A?style=flat&logo=git/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br><br>
 🌱 I'm most interested in the fields of Full-Stack Web Development and Human-Computer Interaction.
   <br><br>
