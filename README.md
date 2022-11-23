@@ -31,7 +31,6 @@
   <br><br> -->
   <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
   <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
-  <br>
 </div>
 
 
