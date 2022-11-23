@@ -14,7 +14,7 @@
     <br><br>
   
 🌱 I'm most interested in the fields of Full-Stack Web Development and Human-Computer Interaction.
-  <br><br>
+  <br>
 <!--    💻 Languages and Technologies I use:<br><br>
     <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
