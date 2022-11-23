@@ -30,7 +30,6 @@
     <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira"/>
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
   </p>
-<br>
   <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
   <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
   <br>
