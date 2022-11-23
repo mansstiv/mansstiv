@@ -14,7 +14,6 @@
 <br><br>
   
 🌱 I'm most interested in the fields of Full-Stack Web Development, Artificial Intelligence and Human-Computer Interaction. <br><br>
-
 <!-- ```
 class Skills extends SoftwareEngineer {
   programming  = ['TypeScript/JavaScript', 'Angular', 'KnockoutJS', 'HTML', 'CSS', 'Python', 'C/C++', 'SQL', 'MySql'];
