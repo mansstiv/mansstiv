@@ -14,6 +14,10 @@
 <br><br>
   
 🌱 I'm most interested in the fields of Full-Stack Web Development, Artificial Intelligence and Human-Computer Interaction. <br><br>
+  <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
+  <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
+</div>
+
 <!-- ```
 class Skills extends SoftwareEngineer {
   programming  = ['TypeScript/JavaScript', 'Angular', 'KnockoutJS', 'HTML', 'CSS', 'Python', 'C/C++', 'SQL', 'MySql'];
@@ -22,10 +26,6 @@ class Skills extends SoftwareEngineer {
 }
 ```
   <br> -->
-  <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
-  <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
-</div>
-
 
 <!--    💻 Languages and Technologies I use:<br><br>
     <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
