@@ -8,7 +8,7 @@
 </p>
 
 <div>
-🚀 I'm an undergraduate student in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
+🚀 I'm a senior undergraduate student in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
   <br><br>
 🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
 <br><br>
