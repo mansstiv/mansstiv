@@ -13,7 +13,7 @@
 🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
     <br><br>
   
-🌱 I'm most interested in the fields of Full-Stack Web Development and Human-Computer Interaction.
+🌱 I'm most interested in the fields of Full-Stack Web Development, Artificial Intelligence and Human-Computer Interaction.
   <br>
 <!--    💻 Languages and Technologies I use:<br><br>
     <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
