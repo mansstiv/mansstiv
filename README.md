@@ -17,14 +17,14 @@
   
   
 
-```
+<!-- ```
 class Skills extends SoftwareEngineer {
   programming  = ['TypeScript/JavaScript', 'Angular', 'KnockoutJS', 'HTML', 'CSS', 'Python', 'C/C++', 'SQL', 'MySql'];
   platformsAndTools = ['Linux', 'Git', 'Browser Developer Tools', 'Docker'];
   hobbies = ['Traditional Dance', 'Guitar', 'Travel'];
 }
 ```
-  <br>
+  <br> -->
   <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
   <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
 </div>
