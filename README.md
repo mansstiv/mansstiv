@@ -12,12 +12,27 @@
   <br><br>
 🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
     <br><br>
+  
 🌱 I'm most interested in the fields of Full-Stack Web Development and Human-Computer Interaction.
   <br><br>
+ 💻 Languages and Technologies I use:<br><br>
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+    <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=D9272E"/>
+    <img src="https://img.shields.io/badge/-KnockoutJS-05122A?style=flat&logo=knockout"/>
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+    <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql"/>
+    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql" />
+    <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
+    <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira"/>
+    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+<br><br>
   <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
   <i>> <b>Think</b> about things <b>ʎlʇuǝɹǝɟɟᴉp</b></i>
   <br>
-<div>
+</div>
 
 <!--   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
