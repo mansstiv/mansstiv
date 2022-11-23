@@ -12,8 +12,8 @@
   <br><br>
 🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
 <br><br>
-🌱 I'm most interested in the fields of Full-Stack Web Development, Artificial Intelligence and Human-Computer Interaction.
-  <br>
+🌱 I'm most interested in the fields of Full-Stack Web Development, Artificial Intelligence and Human-Computer Interaction.<br>
+  
 ```
 class Skills extends SoftwareEngineer {
   programming  = ['TypeScript/JavaScript', 'Angular', 'KnockoutJS', 'HTML', 'CSS', 'Python', 'C/C++', 'SQL', 'MySql'];
