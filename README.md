@@ -8,10 +8,11 @@
 </p>
 
 <div>
-🚀 I'm a senior undergraduate student in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
-  <br><br>
-🔭 I'm currently working as a Junior Software Engineer at <a href="https://www.netcompany-intrasoft.com/" target="_blank"> Netcompany-Intrasoft</a>, focusing on Front-End Development.
+🔭 I'm currently working as an Associate Software Engineer at <a href="https://www.netcompany.com/" target="_blank"> Netcompany</a>, focusing on Front-End Development.
 <br><br>
+
+🚀 I've earned my bachelor's degree in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
+  <br><br>
   
 🌱 I'm most interested in the fields of Full-Stack Web Development, Artificial Intelligence and Human-Computer Interaction. <br><br>
   <i>> Stay <b>true</b> to yourself, yet be open to <b>learn</b></i><br>
